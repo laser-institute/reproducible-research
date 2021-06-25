@@ -20,7 +20,7 @@ To complete this task, open your exported project within RStudio Cloud.
 
 ## Task #2: Adding the exported project to your GitHub account
 
-There are a number of steps you must first take to add your exported project to your GitHub account. These are as follow, with links to instructions from the excellent book[*Happy git and GitHub for the useR*](https://happygitwithr.com/) on how to complete them:
+There are a number of steps you must first take to add your exported project to your GitHub account. These are as follow, with links to instructions from the excellent book [*Happy git and GitHub for the useR*](https://happygitwithr.com/) on how to complete them:
 
 1. [Create a GitHub account](https://happygitwithr.com/github-acct.html) 
 2. [Install git (or confirm that you have it already installed - you very well may even if you haven't used git before!)](https://happygitwithr.com/install-git.html)
