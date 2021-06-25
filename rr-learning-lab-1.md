@@ -1,4 +1,4 @@
-# Getting Started With git and GitHub
+# Reproducible Research - Learning Lab 2: Getting Started With git and GitHub
 
 ## Introduction
 [GitHub](http://github.com/) is a web-based tool for sharing your R code with others and for collaborating with others on R code. It is very powerful but also can be challenging to use. 
@@ -15,6 +15,8 @@ Let's begin with the first of these two tasks.
 ## Task #1: Exporting one of your projects from RStudio Cloud
 
 This short screencast walks through exporting a project from RStudio Cloud: https://www.screencast.com/t/XUdPZmi9CQ
+
+Your task is to open your exported project within RStudio Cloud.
 
 ## Task #2: Adding the exported project to your GitHub account
 
