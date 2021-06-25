@@ -1,4 +1,4 @@
-# Getting Started With RStudio Desktop
+# Reproducible Research - Learning Lab 2: Getting Started With RStudio Desktop
 
 ## Introduction
 This week, we've been using [RStudio Cloud](https://rstudio.cloud/), which is a fully-featured version of the RStudio Interactive Development Environment. Now, we want to support your use of RStudio Desktop.
